@@ -1,6 +1,3 @@
-# Oracle_DB
-Oralce DBA notes
-
 # Oracle Database — Comprehensive Study Notes
 
 ---
